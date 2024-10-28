@@ -16,7 +16,7 @@ prefix does not need to be embedded in forms and links.
 ## Default Namespace
 
 The default namespace is `""` - an empty string. The default namespace is used as a "catch-all" namespace. If an action 
-configuration is not found in a specified namespace, the default namespace is also be searched. The local/global 
+configuration is not found in a specified namespace, the default namespace will also be searched. The local/global 
 strategy allows an application to have global action configurations outside of the action element "extends" hierarchy.
 
 The namespace prefix can be registered with Java declarative security, to ensure only authorized users can access 
