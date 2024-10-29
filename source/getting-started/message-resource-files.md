@@ -37,7 +37,7 @@ If you're doing this tutorial after completing [Form Validation](form-validation
 to that tutorial's example application.
 
 Put the text below in a file named Register.properties in the `org.apache.struts.register.action` package 
-in the `src/main/resources` folder.
+in the path to the Action class `WEB-INF/classes/org/apache/struts/register/action` folder.
 
 **Register.properties**
 
