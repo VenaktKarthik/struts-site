@@ -81,7 +81,7 @@ to find a key in a properties file with the same value. So in our example, Strut
 for a key with a value of `personBean.firstName`. The value of that key (`First name`) will be used as the label attribute's value.
 
 To enable the key attribute to find the properties file, the display of the view page must be the result of executing 
-a Struts 2 Action class. Right now if you examine index.jsp from the [Form Validation](form-validation) tutorial 
+a Struts 2 Action class. Right now if you examine `index.jsp` from the [Form Validation](form-validation) tutorial 
 the link to the `register.jsp` page is a standard URL.
 
 **link to register.jsp**
